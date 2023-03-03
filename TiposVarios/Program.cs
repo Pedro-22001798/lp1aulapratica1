@@ -29,5 +29,11 @@
             Console.WriteLine(nine);
             Console.WriteLine(ten);
             Console.WriteLine(eleven);
+
+            bool boolOne = true;
+            bool boolTwo = false;
+
+            Console.WriteLine(boolOne);
+            Console.WriteLine(boolTwo);
         }
     }
