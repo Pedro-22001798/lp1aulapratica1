@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\bin\Debug\net6.0\TiposVarios.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\bin\Debug\net6.0\TiposVarios.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\bin\Debug\net6.0\TiposVarios.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\bin\Debug\net6.0\TiposVarios.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\bin\Debug\net6.0\TiposVarios.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\refint\TiposVarios.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\TiposVarios.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\TiposVarios\obj\Debug\net6.0\ref\TiposVarios.dll
