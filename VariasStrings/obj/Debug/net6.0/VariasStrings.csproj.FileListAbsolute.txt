@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\bin\Debug\net6.0\VariasStrings.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\bin\Debug\net6.0\VariasStrings.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\bin\Debug\net6.0\VariasStrings.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\bin\Debug\net6.0\VariasStrings.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\bin\Debug\net6.0\VariasStrings.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\refint\VariasStrings.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\VariasStrings.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\VariasStrings\obj\Debug\net6.0\ref\VariasStrings.dll
