@@ -30,6 +30,14 @@
             Console.WriteLine(ten);
             Console.WriteLine(eleven);
 
+            float floatOne = 5.753333333333F;
+            double doubleOne = 19.999999999999999999D;
+            decimal decimalOne = 0.5555555555555555555555M;
+
+            Console.WriteLine(floatOne);
+            Console.WriteLine(doubleOne);
+            Console.WriteLine(decimalOne);
+
             bool boolOne = true;
             bool boolTwo = false;
 
