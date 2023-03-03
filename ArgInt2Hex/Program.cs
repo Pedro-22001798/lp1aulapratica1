@@ -12,7 +12,7 @@
                 if(checkInt)
                 {
                     string numHex = num.ToString("X");
-                    Console.WriteLine($"{num} -> é um número inteiro. Hexa = {numHex}.");
+                    Console.WriteLine($"{num} -> é um número inteiro, valor hexadecimal = {numHex}.");
                 }
                 else
                 {
