@@ -12,7 +12,6 @@
             ushort six = 65534;
             uint seven = 4294967295;
             ulong eight = 18446744073709551615;
-            char nine = '\u00A9';
 
             Console.WriteLine(one);
             Console.WriteLine(two);
@@ -22,6 +21,13 @@
             Console.WriteLine(six);
             Console.WriteLine(seven);
             Console.WriteLine(eight);
+            
+            char nine = '\u00A9';
+            char ten = '\u225B';
+            char eleven = '\u2473';
+
             Console.WriteLine(nine);
+            Console.WriteLine(ten);
+            Console.WriteLine(eleven);
         }
     }
