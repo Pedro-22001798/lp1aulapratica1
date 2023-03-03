@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\bin\Debug\net6.0\ArgInt2Hex.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\bin\Debug\net6.0\ArgInt2Hex.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\bin\Debug\net6.0\ArgInt2Hex.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\bin\Debug\net6.0\ArgInt2Hex.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\bin\Debug\net6.0\ArgInt2Hex.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\refint\ArgInt2Hex.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ArgInt2Hex.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ArgInt2Hex\obj\Debug\net6.0\ref\ArgInt2Hex.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArgInt2Hex/1.0.0": {
+        "runtime": {
+          "ArgInt2Hex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArgInt2Hex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
