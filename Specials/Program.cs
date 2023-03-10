@@ -17,5 +17,9 @@
 
             float u = float.MaxValue;
             Console.WriteLine((float) (u + 1));
+
+            float f1 , f2;
+            f1 = f2 = 10000.0f;
+            Console.WriteLine(f1 == f2 + 0.0001f);
         }
     }
