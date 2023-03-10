@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\bin\Debug\net6.0\Diamond.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\bin\Debug\net6.0\Diamond.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\bin\Debug\net6.0\Diamond.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\bin\Debug\net6.0\Diamond.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\bin\Debug\net6.0\Diamond.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\refint\Diamond.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\Diamond.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Semana2\Diamond\obj\Debug\net6.0\ref\Diamond.dll
