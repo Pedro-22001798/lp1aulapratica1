@@ -9,8 +9,8 @@
             Console.WriteLine("Qual é o raio? ");
             float r = float.Parse(Console.ReadLine());
 
-            double volume = 3.1415926 * (r * r) * a;
-            double area = 2 * 3.1415926 * (r * r + r * a);
+            double volume = Math.PI * Math.Pow(r,2) * a;
+            double area = 2 * Math.PI * (Math.Pow(r,2) + r * a);
             Console.WriteLine($"Volume é {volume}");
             Console.WriteLine($"Area é {area}");
         }
