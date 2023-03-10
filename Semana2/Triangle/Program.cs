@@ -1,2 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+    public class Program
+    {
+        public static void Main(string[] stringNums)
+        {
+            int quantity = int.Parse(stringNums[0]);
+            string single = stringNums[1];
+            
+            for(int i = 1; i <= quantity; i++)
+            {
+                for(int u = 0; u < i; u++)
+                {
+                    Console.Write(single);
+                }
+                Console.WriteLine();
+            }
+        }
+    }
