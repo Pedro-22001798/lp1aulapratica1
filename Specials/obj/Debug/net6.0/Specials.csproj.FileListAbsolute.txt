@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\bin\Debug\net6.0\Specials.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\bin\Debug\net6.0\Specials.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\bin\Debug\net6.0\Specials.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\bin\Debug\net6.0\Specials.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\bin\Debug\net6.0\Specials.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\refint\Specials.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\Specials.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\Specials\obj\Debug\net6.0\ref\Specials.dll
