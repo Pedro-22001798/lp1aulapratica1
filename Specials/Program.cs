@@ -14,5 +14,8 @@
 
             int i = short.MaxValue;
             Console.WriteLine(( short) ( i + 1));
+
+            float u = float.MaxValue;
+            Console.WriteLine((float) (u + 1));
         }
     }
