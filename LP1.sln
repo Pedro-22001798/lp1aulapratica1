@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposVarios", "TiposVarios\TiposVarios.csproj", "{DF6B8113-9E4F-4B30-9F77-E8F8FA55101D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulaVar", "ManipulaVar\ManipulaVar.csproj", "{B06E0593-0449-45CE-A400-D114FE2B9E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{DF6B8113-9E4F-4B30-9F77-E8F8FA55101D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF6B8113-9E4F-4B30-9F77-E8F8FA55101D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF6B8113-9E4F-4B30-9F77-E8F8FA55101D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06E0593-0449-45CE-A400-D114FE2B9E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06E0593-0449-45CE-A400-D114FE2B9E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06E0593-0449-45CE-A400-D114FE2B9E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06E0593-0449-45CE-A400-D114FE2B9E43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

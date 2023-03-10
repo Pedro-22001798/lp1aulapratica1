@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\bin\Debug\net6.0\ManipulaVar.exe
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\bin\Debug\net6.0\ManipulaVar.deps.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\bin\Debug\net6.0\ManipulaVar.runtimeconfig.json
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\bin\Debug\net6.0\ManipulaVar.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\bin\Debug\net6.0\ManipulaVar.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\refint\ManipulaVar.dll
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.pdb
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ManipulaVar.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Lusófona\LP1\ManipulaVar\obj\Debug\net6.0\ref\ManipulaVar.dll
