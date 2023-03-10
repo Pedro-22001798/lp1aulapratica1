@@ -9,11 +9,11 @@
             
             for(int i = 1; i <= quantity; i++)
             {
+                Console.WriteLine();
                 for(int u = 0; u < i; u++)
                 {
                     Console.Write(single);
                 }
-                Console.WriteLine();
             }
         }
     }
